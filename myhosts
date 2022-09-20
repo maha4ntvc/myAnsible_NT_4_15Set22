@@ -13,8 +13,4 @@
 172.31.14.180
 
 
-[mywebservers:vars]
-var=value
-mywebpackonubuntu=nginx
-mywebpackonRedHat=httpd
 
