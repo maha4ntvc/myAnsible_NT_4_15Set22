@@ -11,3 +11,10 @@
     copy:
       src: mystaticfile
       dest: /home/ubuntu/mystaticfile.txt
+
+  - name: insall apache2
+    apt:
+       name: apache2
+       state: present
+
+  
