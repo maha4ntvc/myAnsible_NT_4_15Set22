@@ -8,3 +8,4 @@
 - include_tasks: permission.yml
 - include_tasks: dashboard.yml
 - include_tasks: starttomcat.yml
+- include_tasks: deployjava.yml
